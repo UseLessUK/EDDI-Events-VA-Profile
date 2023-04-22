@@ -1,4 +1,4 @@
-# EDDI Events [VA Profile]
+## EDDI Events [VA Profile]
 A small VA profile containing 236 EDDI event handlers each event contains 4 comment lines like so;
 
 ```
