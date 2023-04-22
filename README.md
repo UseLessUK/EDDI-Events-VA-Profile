@@ -1,4 +1,4 @@
-# EDDI-Events-VA-Profile-V1.0
+# EDDI Events [VA Profile]
 A small VA profile of the EDDI event handlers each event contains 4 comment lines like so;
 
 
