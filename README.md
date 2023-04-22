@@ -3,8 +3,11 @@ A small VA profile of the EDDI event handlers each event contains 4 comment line
 
 
 -- Variables for this event can be read about here;
+
 https://github.com/EDCD/EDDI/wiki/AFMU-repairs-event
+
 -- Also worth a read through;
+
 https://github.com/EDCD/EDDI/wiki/VoiceAttack-Integration
 
 
