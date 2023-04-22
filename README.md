@@ -2,9 +2,9 @@
 A small VA profile containing 236 EDDI event handlers each event contains 4 comment lines like so;
 
 ```
--- Variables for this event can be read about here;
+## Variables for this event can be read about here;
 https://github.com/EDCD/EDDI/wiki/AFMU-repairs-event
--- Also worth a read through;
+## Also worth a read through;
 https://github.com/EDCD/EDDI/wiki/VoiceAttack-Integration
 ```
 
