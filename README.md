@@ -1,6 +1,7 @@
 # EDDI-Events-VA-Profile-V1.0
 A small VA profile of the EDDI event handlers each event contains 4 comment lines like so;
 
+
 -- Variables for this event can be read about here;
 https://github.com/EDCD/EDDI/wiki/AFMU-repairs-event
 -- Also worth a read through;
